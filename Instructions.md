@@ -1,19 +1,5 @@
-# 🖌️ PyGen: Instructions
+#  PyGen 🍰 : Instructions
 
-## Translations
-- 简体中文
-- Français
-- ગુજરાતી
-- Italiano
-- العربية
-- Turkish
-- Português (Brasil)
-- Español
-- 한국어
-- Tiếng Việt
-- Русский
-
----
 
 ## Table of Contents
 - [Getting Started](#getting-started)
