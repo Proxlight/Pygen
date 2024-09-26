@@ -1,4 +1,4 @@
-# 🖌️ PyGen: Figma to Tkinter GUI Converter
+# PyGen 🍰
 
 Welcome to **PyGen**, a powerful tool that seamlessly converts your Figma designs into beautiful Tkinter GUI code! With PyGen, you can effortlessly transform your creative designs into functional Python applications.
 
