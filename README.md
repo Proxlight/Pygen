@@ -35,7 +35,7 @@ Welcome to **PyGen**, a powerful tool that seamlessly converts your Figma design
 ### Get Your Copy Now! 
 
 - [**Download for Mac**](https://proxlightapps.gumroad.com/l/Pygenmaac) 🍏  
-- [**Download for Windows**](#) 🖥️
+- [**Download for Windows**](https://proxlightapps.gumroad.com/l/Pygenwindows) 🖥️
 
 ---
 
